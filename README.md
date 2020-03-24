@@ -137,3 +137,10 @@ You should now be able to click on the button you created to run your script.
 
 You can get the test file I created here:  
 [ExamplePythonScripting.ods](ExamplePythonScripting.ods)
+
+## Links and Further Information
+These are the resources I used to make this tutorial.
+* [libreoffice-automate-your-office-tasks-with-python-macros](http://christopher5106.github.io/office/2015/12/06/openoffice-libreoffice-automate-your-office-tasks-with-python-macros.html)
+* [Youtube Run Python Script in LibreOffice](https://www.youtube.com/watch?v=3Ef_ordyWQs)
+* [LibreOffice Python Scripts Help](https://help.libreoffice.org/6.3/en-US/text/sbasic/python/main0000.html)
+
